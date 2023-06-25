@@ -1,4 +1,4 @@
-language: python
+hello world language: python
 sudo: false
 os:
   - linux
